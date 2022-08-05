@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\RK University\\5th Sem\\.NET\\Tutorial 1\\q10\\Q10.csproj": {}
+    "D:\\RK University\\5th Sem\\Enterprise Computing Through .NET Frameworks\\Tutorial 1\\q10\\Q10.csproj": {}
   },
   "projects": {
-    "D:\\RK University\\5th Sem\\.NET\\Tutorial 1\\q10\\Q10.csproj": {
+    "D:\\RK University\\5th Sem\\Enterprise Computing Through .NET Frameworks\\Tutorial 1\\q10\\Q10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RK University\\5th Sem\\.NET\\Tutorial 1\\q10\\Q10.csproj",
+        "projectUniqueName": "D:\\RK University\\5th Sem\\Enterprise Computing Through .NET Frameworks\\Tutorial 1\\q10\\Q10.csproj",
         "projectName": "Q10",
-        "projectPath": "D:\\RK University\\5th Sem\\.NET\\Tutorial 1\\q10\\Q10.csproj",
+        "projectPath": "D:\\RK University\\5th Sem\\Enterprise Computing Through .NET Frameworks\\Tutorial 1\\q10\\Q10.csproj",
         "packagesPath": "C:\\Users\\Sanjay Sah\\.nuget\\packages\\",
-        "outputPath": "D:\\RK University\\5th Sem\\.NET\\Tutorial 1\\q10\\obj\\",
+        "outputPath": "D:\\RK University\\5th Sem\\Enterprise Computing Through .NET Frameworks\\Tutorial 1\\q10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sanjay Sah\\AppData\\Roaming\\NuGet\\NuGet.Config",

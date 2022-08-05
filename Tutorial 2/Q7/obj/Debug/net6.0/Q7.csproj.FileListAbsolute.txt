@@ -1,0 +1,15 @@
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Tutorial 2\q7\bin\Debug\net6.0\Q7.exe
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Tutorial 2\q7\bin\Debug\net6.0\Q7.deps.json
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Tutorial 2\q7\bin\Debug\net6.0\Q7.runtimeconfig.json
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Tutorial 2\q7\bin\Debug\net6.0\Q7.dll
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Tutorial 2\q7\bin\Debug\net6.0\Q7.pdb
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Tutorial 2\q7\obj\Debug\net6.0\Q7.csproj.AssemblyReference.cache
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Tutorial 2\q7\obj\Debug\net6.0\Q7.GeneratedMSBuildEditorConfig.editorconfig
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Tutorial 2\q7\obj\Debug\net6.0\Q7.AssemblyInfoInputs.cache
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Tutorial 2\q7\obj\Debug\net6.0\Q7.AssemblyInfo.cs
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Tutorial 2\q7\obj\Debug\net6.0\Q7.csproj.CoreCompileInputs.cache
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Tutorial 2\q7\obj\Debug\net6.0\Q7.dll
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Tutorial 2\q7\obj\Debug\net6.0\refint\Q7.dll
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Tutorial 2\q7\obj\Debug\net6.0\Q7.pdb
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Tutorial 2\q7\obj\Debug\net6.0\Q7.genruntimeconfig.cache
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Tutorial 2\q7\obj\Debug\net6.0\ref\Q7.dll
