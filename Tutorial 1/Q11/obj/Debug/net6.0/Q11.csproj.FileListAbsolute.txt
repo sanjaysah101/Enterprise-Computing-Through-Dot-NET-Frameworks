@@ -13,3 +13,18 @@ D:\RK University\5th Sem\.NET\Tutorial 1\q11\obj\Debug\net6.0\refint\Q11.dll
 D:\RK University\5th Sem\.NET\Tutorial 1\q11\obj\Debug\net6.0\Q11.pdb
 D:\RK University\5th Sem\.NET\Tutorial 1\q11\obj\Debug\net6.0\Q11.genruntimeconfig.cache
 D:\RK University\5th Sem\.NET\Tutorial 1\q11\obj\Debug\net6.0\ref\Q11.dll
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Tutorial 1\q11\bin\Debug\net6.0\Q11.exe
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Tutorial 1\q11\bin\Debug\net6.0\Q11.deps.json
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Tutorial 1\q11\bin\Debug\net6.0\Q11.runtimeconfig.json
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Tutorial 1\q11\bin\Debug\net6.0\Q11.dll
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Tutorial 1\q11\bin\Debug\net6.0\Q11.pdb
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Tutorial 1\q11\obj\Debug\net6.0\Q11.csproj.AssemblyReference.cache
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Tutorial 1\q11\obj\Debug\net6.0\Q11.GeneratedMSBuildEditorConfig.editorconfig
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Tutorial 1\q11\obj\Debug\net6.0\Q11.AssemblyInfoInputs.cache
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Tutorial 1\q11\obj\Debug\net6.0\Q11.AssemblyInfo.cs
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Tutorial 1\q11\obj\Debug\net6.0\Q11.csproj.CoreCompileInputs.cache
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Tutorial 1\q11\obj\Debug\net6.0\Q11.dll
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Tutorial 1\q11\obj\Debug\net6.0\refint\Q11.dll
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Tutorial 1\q11\obj\Debug\net6.0\Q11.pdb
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Tutorial 1\q11\obj\Debug\net6.0\Q11.genruntimeconfig.cache
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Tutorial 1\q11\obj\Debug\net6.0\ref\Q11.dll
