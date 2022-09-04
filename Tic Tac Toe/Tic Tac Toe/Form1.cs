@@ -18,7 +18,7 @@ namespace Tic_Tac_Toe
         static int count = 0;
         static char winner = 'N';
         static char[] filledPos = { 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N' };
-        static bool isGameActive = true;
+        static bool isGameActive = false;
         int player1_score = 0;
         int player2_score = 0;
         
@@ -33,6 +33,7 @@ namespace Tic_Tac_Toe
             labelTurn.Text = "Player 1 - O";
             labelPlayer1Score.Text = "Player 1: " + player1_score;
             labelPlayer2Score.Text = "Player 2: " + player2_score;
+            
 
         }
 
@@ -104,7 +105,7 @@ namespace Tic_Tac_Toe
                 }else if(winner == player2)
                 {
                     player2_score++;
-                    labelPlayer1Score.Text = "Player 2: " + player2_score;
+                    labelPlayer2Score.Text = "Player 2: " + player2_score;
                     MessageBox.Show(player2 + " is winner");
 
                 }else if(count == 9 && winner == 'N')
@@ -140,5 +141,58 @@ namespace Tic_Tac_Toe
             }
             return 'N';
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void newGameToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            player1 = 'O';
+            player2 = 'X';
+            activerPlayer = player1;       
+            player1_score = 0;
+            player2_score = 0;
+            labelTurn.Text = "Player 1 - "+activerPlayer;          
+
+
+            labelPlayer1Score.Text = "Player 1: " + player1_score;
+            labelPlayer2Score.Text = "Player 2: " + player2_score;
+            clearBoard();
+
+        }
+        private void clearBoard()
+        {
+            count = 0;
+            winner = 'N';
+            for(int i = 0; i < filledPos.Length; i++)
+            {
+                filledPos[i] = 'N';
+            }
+            button1.Text = "";
+            button2.Text = "";
+            button3.Text = "";
+            button4.Text = "";
+            button5.Text = "";
+            button6.Text = "";
+            button7.Text = "";
+            button8.Text = "";
+            button9.Text = "";
+            isGameActive = true;
+        }
+
+        private void continueToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if(player1_score > 0 || player1_score > 0)
+            {
+                activerPlayer = winner;
+            }
+            labelTurn.Text = "Player 1 - " + activerPlayer;
+            clearBoard();
+            isGameActive = true;
+        }
+
+        
     }
 }

@@ -44,8 +44,11 @@
             this.label3 = new System.Windows.Forms.Label();
             this.labelTurn = new System.Windows.Forms.Label();
             this.labelPlayer2Score = new System.Windows.Forms.Label();
-            this.button10 = new System.Windows.Forms.Button();
+            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.newGameToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.continueToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tableLayoutPanel1.SuspendLayout();
+            this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // tableLayoutPanel1
@@ -81,7 +84,7 @@
             this.button1.BackColor = System.Drawing.Color.OrangeRed;
             this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button1.FlatAppearance.BorderColor = System.Drawing.Color.OrangeRed;
-            this.button1.FlatAppearance.BorderSize = 0;
+            this.button1.FlatAppearance.BorderSize = 5;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.button1.Location = new System.Drawing.Point(3, 3);
@@ -224,11 +227,12 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Transparent;
-            this.label1.Location = new System.Drawing.Point(284, 38);
+            this.label1.Location = new System.Drawing.Point(263, 76);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(232, 38);
             this.label1.TabIndex = 1;
             this.label1.Text = "TIC TAC TOE";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // labelPlayer1Score
             // 
@@ -258,7 +262,7 @@
             this.labelTurn.AutoSize = true;
             this.labelTurn.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelTurn.ForeColor = System.Drawing.Color.White;
-            this.labelTurn.Location = new System.Drawing.Point(336, 125);
+            this.labelTurn.Location = new System.Drawing.Point(336, 141);
             this.labelTurn.Name = "labelTurn";
             this.labelTurn.Size = new System.Drawing.Size(67, 29);
             this.labelTurn.TabIndex = 2;
@@ -275,14 +279,31 @@
             this.labelPlayer2Score.TabIndex = 2;
             this.labelPlayer2Score.Text = "Player 2:";
             // 
-            // button10
+            // menuStrip1
             // 
-            this.button10.Location = new System.Drawing.Point(-1, -2);
-            this.button10.Name = "button10";
-            this.button10.Size = new System.Drawing.Size(98, 33);
-            this.button10.TabIndex = 3;
-            this.button10.Text = "button10";
-            this.button10.UseVisualStyleBackColor = true;
+            this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
+            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.newGameToolStripMenuItem,
+            this.continueToolStripMenuItem});
+            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip1.Name = "menuStrip1";
+            this.menuStrip1.Size = new System.Drawing.Size(847, 28);
+            this.menuStrip1.TabIndex = 3;
+            this.menuStrip1.Text = "menuStrip1";
+            // 
+            // newGameToolStripMenuItem
+            // 
+            this.newGameToolStripMenuItem.Name = "newGameToolStripMenuItem";
+            this.newGameToolStripMenuItem.Size = new System.Drawing.Size(96, 24);
+            this.newGameToolStripMenuItem.Text = "New Game";
+            this.newGameToolStripMenuItem.Click += new System.EventHandler(this.newGameToolStripMenuItem_Click);
+            // 
+            // continueToolStripMenuItem
+            // 
+            this.continueToolStripMenuItem.Name = "continueToolStripMenuItem";
+            this.continueToolStripMenuItem.Size = new System.Drawing.Size(82, 24);
+            this.continueToolStripMenuItem.Text = "Continue";
+            this.continueToolStripMenuItem.Click += new System.EventHandler(this.continueToolStripMenuItem_Click);
             // 
             // Form1
             // 
@@ -290,20 +311,24 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.OrangeRed;
             this.ClientSize = new System.Drawing.Size(847, 621);
-            this.Controls.Add(this.button10);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.labelTurn);
             this.Controls.Add(this.labelPlayer2Score);
             this.Controls.Add(this.labelPlayer1Score);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.tableLayoutPanel1);
+            this.Controls.Add(this.menuStrip1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MainMenuStrip = this.menuStrip1;
             this.MaximizeBox = false;
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Tic Tac Toe";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.tableLayoutPanel1.ResumeLayout(false);
+            this.menuStrip1.ResumeLayout(false);
+            this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -326,7 +351,9 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label labelTurn;
         private System.Windows.Forms.Label labelPlayer2Score;
-        private System.Windows.Forms.Button button10;
+        private System.Windows.Forms.MenuStrip menuStrip1;
+        private System.Windows.Forms.ToolStripMenuItem newGameToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem continueToolStripMenuItem;
     }
 }
 
