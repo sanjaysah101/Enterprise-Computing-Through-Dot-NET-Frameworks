@@ -1,0 +1,11 @@
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\CRUD_APP\CRUD_APP\bin\Debug\CRUD_APP.exe.config
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\CRUD_APP\CRUD_APP\bin\Debug\CRUD_APP.exe
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\CRUD_APP\CRUD_APP\bin\Debug\CRUD_APP.pdb
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\CRUD_APP\CRUD_APP\obj\Debug\CRUD_APP.csproj.AssemblyReference.cache
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\CRUD_APP\CRUD_APP\obj\Debug\CRUD_APP.csproj.SuggestedBindingRedirects.cache
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\CRUD_APP\CRUD_APP\obj\Debug\CRUD_APP.Form1.resources
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\CRUD_APP\CRUD_APP\obj\Debug\CRUD_APP.Properties.Resources.resources
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\CRUD_APP\CRUD_APP\obj\Debug\CRUD_APP.csproj.GenerateResource.cache
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\CRUD_APP\CRUD_APP\obj\Debug\CRUD_APP.csproj.CoreCompileInputs.cache
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\CRUD_APP\CRUD_APP\obj\Debug\CRUD_APP.exe
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\CRUD_APP\CRUD_APP\obj\Debug\CRUD_APP.pdb
