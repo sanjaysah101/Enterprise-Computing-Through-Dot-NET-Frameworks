@@ -1,0 +1,12 @@
+C:\Users\Sanjay Sah\Downloads\.net Practice\Mock_CIE1\Mock_CIE1_SuppliedFies_Set\ShoppingMallSystem\ShoppingMallSystem\bin\Debug\ShoppingMallSystem.exe.config
+C:\Users\Sanjay Sah\Downloads\.net Practice\Mock_CIE1\Mock_CIE1_SuppliedFies_Set\ShoppingMallSystem\ShoppingMallSystem\bin\Debug\ShoppingMallSystem.exe
+C:\Users\Sanjay Sah\Downloads\.net Practice\Mock_CIE1\Mock_CIE1_SuppliedFies_Set\ShoppingMallSystem\ShoppingMallSystem\bin\Debug\ShoppingMallSystem.pdb
+C:\Users\Sanjay Sah\Downloads\.net Practice\Mock_CIE1\Mock_CIE1_SuppliedFies_Set\ShoppingMallSystem\ShoppingMallSystem\obj\Debug\ShoppingMallSystem.csproj.AssemblyReference.cache
+C:\Users\Sanjay Sah\Downloads\.net Practice\Mock_CIE1\Mock_CIE1_SuppliedFies_Set\ShoppingMallSystem\ShoppingMallSystem\obj\Debug\ShoppingMallSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sanjay Sah\Downloads\.net Practice\Mock_CIE1\Mock_CIE1_SuppliedFies_Set\ShoppingMallSystem\ShoppingMallSystem\obj\Debug\ShoppingMallSystem.Form1.resources
+C:\Users\Sanjay Sah\Downloads\.net Practice\Mock_CIE1\Mock_CIE1_SuppliedFies_Set\ShoppingMallSystem\ShoppingMallSystem\obj\Debug\ShoppingMallSystem.Properties.Resources.resources
+C:\Users\Sanjay Sah\Downloads\.net Practice\Mock_CIE1\Mock_CIE1_SuppliedFies_Set\ShoppingMallSystem\ShoppingMallSystem\obj\Debug\ShoppingMallSystem.csproj.GenerateResource.cache
+C:\Users\Sanjay Sah\Downloads\.net Practice\Mock_CIE1\Mock_CIE1_SuppliedFies_Set\ShoppingMallSystem\ShoppingMallSystem\obj\Debug\ShoppingMallSystem.csproj.CoreCompileInputs.cache
+C:\Users\Sanjay Sah\Downloads\.net Practice\Mock_CIE1\Mock_CIE1_SuppliedFies_Set\ShoppingMallSystem\ShoppingMallSystem\obj\Debug\ShoppingMallSystem.exe
+C:\Users\Sanjay Sah\Downloads\.net Practice\Mock_CIE1\Mock_CIE1_SuppliedFies_Set\ShoppingMallSystem\ShoppingMallSystem\obj\Debug\ShoppingMallSystem.pdb
+C:\Users\Sanjay Sah\Downloads\.net Practice\Mock_CIE1\Mock_CIE1_SuppliedFies_Set\ShoppingMallSystem\ShoppingMallSystem\obj\Debug\ShoppingMallSystem.Profile.resources

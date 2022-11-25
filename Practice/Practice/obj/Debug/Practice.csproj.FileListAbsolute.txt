@@ -1,0 +1,8 @@
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Practice\Practice\bin\Debug\Practice.exe.config
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Practice\Practice\bin\Debug\Practice.exe
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Practice\Practice\bin\Debug\Practice.pdb
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Practice\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Practice\Practice\obj\Debug\Practice.csproj.SuggestedBindingRedirects.cache
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Practice\Practice\obj\Debug\Practice.exe
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Practice\Practice\obj\Debug\Practice.pdb

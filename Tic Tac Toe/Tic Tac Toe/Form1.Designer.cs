@@ -47,6 +47,7 @@
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.newGameToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.continueToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripMenuItemPlayWithAI = new System.Windows.Forms.ToolStripMenuItem();
             this.tableLayoutPanel1.SuspendLayout();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -285,7 +286,8 @@
             this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.newGameToolStripMenuItem,
-            this.continueToolStripMenuItem});
+            this.continueToolStripMenuItem,
+            this.toolStripMenuItemPlayWithAI});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(847, 33);
@@ -310,6 +312,15 @@
             this.continueToolStripMenuItem.Text = "Continue";
             this.continueToolStripMenuItem.Click += new System.EventHandler(this.continueToolStripMenuItem_Click);
             // 
+            // toolStripMenuItemPlayWithAI
+            // 
+            this.toolStripMenuItemPlayWithAI.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.toolStripMenuItemPlayWithAI.ForeColor = System.Drawing.Color.White;
+            this.toolStripMenuItemPlayWithAI.Name = "toolStripMenuItemPlayWithAI";
+            this.toolStripMenuItemPlayWithAI.Size = new System.Drawing.Size(128, 29);
+            this.toolStripMenuItemPlayWithAI.Text = "Play with AI";
+            this.toolStripMenuItemPlayWithAI.Click += new System.EventHandler(this.toolStripMenuItemPlayWithAI_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -326,7 +337,6 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
-            this.MaximizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Tic Tac Toe";
@@ -359,6 +369,7 @@
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem newGameToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem continueToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItemPlayWithAI;
     }
 }
 

@@ -1,0 +1,11 @@
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\OrderEntery\OrderEntery\bin\Debug\OrderEntery.exe.config
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\OrderEntery\OrderEntery\bin\Debug\OrderEntery.exe
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\OrderEntery\OrderEntery\bin\Debug\OrderEntery.pdb
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\OrderEntery\OrderEntery\obj\Debug\OrderEntery.csproj.AssemblyReference.cache
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\OrderEntery\OrderEntery\obj\Debug\OrderEntery.csproj.SuggestedBindingRedirects.cache
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\OrderEntery\OrderEntery\obj\Debug\OrderEntery.orderEntery.resources
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\OrderEntery\OrderEntery\obj\Debug\OrderEntery.Properties.Resources.resources
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\OrderEntery\OrderEntery\obj\Debug\OrderEntery.csproj.GenerateResource.cache
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\OrderEntery\OrderEntery\obj\Debug\OrderEntery.csproj.CoreCompileInputs.cache
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\OrderEntery\OrderEntery\obj\Debug\OrderEntery.exe
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\OrderEntery\OrderEntery\obj\Debug\OrderEntery.pdb

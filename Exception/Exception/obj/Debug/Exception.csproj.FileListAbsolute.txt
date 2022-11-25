@@ -1,0 +1,8 @@
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Exception\Exception\bin\Debug\Exception.exe.config
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Exception\Exception\bin\Debug\Exception.exe
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Exception\Exception\bin\Debug\Exception.pdb
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Exception\Exception\obj\Debug\Exception.csproj.AssemblyReference.cache
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Exception\Exception\obj\Debug\Exception.csproj.SuggestedBindingRedirects.cache
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Exception\Exception\obj\Debug\Exception.csproj.CoreCompileInputs.cache
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Exception\Exception\obj\Debug\Exception.exe
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Exception\Exception\obj\Debug\Exception.pdb

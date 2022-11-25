@@ -1,0 +1,8 @@
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Indexer\Indexer\bin\Debug\Indexer.exe.config
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Indexer\Indexer\bin\Debug\Indexer.exe
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Indexer\Indexer\bin\Debug\Indexer.pdb
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Indexer\Indexer\obj\Debug\Indexer.csproj.AssemblyReference.cache
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Indexer\Indexer\obj\Debug\Indexer.csproj.SuggestedBindingRedirects.cache
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Indexer\Indexer\obj\Debug\Indexer.csproj.CoreCompileInputs.cache
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Indexer\Indexer\obj\Debug\Indexer.exe
+D:\RK University\5th Sem\Enterprise Computing Through .NET Frameworks\Indexer\Indexer\obj\Debug\Indexer.pdb

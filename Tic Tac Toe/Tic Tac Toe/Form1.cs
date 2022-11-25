@@ -193,6 +193,10 @@ namespace Tic_Tac_Toe
             isGameActive = true;
         }
 
-        
+        private void toolStripMenuItemPlayWithAI_Click(object sender, EventArgs e)
+        {
+            PlaywithAI playwithAI = new PlaywithAI();
+            playwithAI.Show();
+        }
     }
 }

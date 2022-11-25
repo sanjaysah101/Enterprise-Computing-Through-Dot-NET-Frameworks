@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Dashboard",
     "\\Login_Form"
   ],
-  "SelectedNode": "\\Login_Form\\SignInForm.cs",
+  "SelectedNode": "\\Login_Form.sln",
   "PreviewInSolutionExplorer": false
 }
